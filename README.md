@@ -65,4 +65,4 @@ analysis.R
 For deeper understanding and derivation of logistic regression,
 including the logit transformation and sigmoid function, see:
 
-- [Logistic Regression Derivation](notes/Logistic Regression.pdf)
+- [Logistic Regression Derivation](notes/Logistic_Regression.pdf)
